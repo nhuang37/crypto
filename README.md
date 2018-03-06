@@ -1,9 +1,9 @@
 # crypto
 
-## 0. Time Range: 20170901 - 20180302
+## 0. Time Range: 20170101 - 20180131
 
 ## 1. Risk vs Daily Return analysis
-*[Attachment: Result 0302_Sample.csv]*
+*[Attachment: Result 0131_Sample.csv]*
 
   * [ ] Sample size: 999 assets
 
@@ -24,7 +24,7 @@
   * [ ] Show Median stock & bond volatility
 
 ## 2. Liquidity analysis: Trading Turnover & Market cap data
-*[Attachment: Trading Turnover and Marketcap_0302.xlsx ]*
+*[Attachment: Trading Turnover and Marketcap_0131.xlsx ]*
   * [ ] Turnover Crypto vs Stock 0131 tab: Comparison of Turnover for top 30 crypto, stock and currency
   * [ ] Marketcap Crypto vs Stock 0131 tab: Comparison of Marketcap % (as of the total Marketcap for 30 crypto/30 stocks)
 
@@ -41,6 +41,6 @@
     - ICO: use the list from CoinDesk (https://www.coindesk.com/ico-tracker/) and with available 60, 90 days historical pricing information in (https://coinmarketcap.com)
 
 ## 4. Correlation
-*[Attachment: correlation_assetclass_0302.xlsx]*
+*[Attachment: correlation_assetclass_0131.xlsx]*
   * [ ] Calculated daily return from 20170101 and cross-asset correlation (Pearson Linear Correlation)
   * [ ] Asset selection: include 30 cryptos, 10 Curncy , 10 Equity indexes, 9 bond indexes and 22 Comdty (89 assets in total)
