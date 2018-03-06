@@ -5,9 +5,9 @@
 ## 1. Risk vs Daily Return analysis
 *[Attachment: Result 0131_Sample.csv]*
 
-  * [ ] Sample size: 999 assets
+  * [x] Sample size: 999 assets
 
-  * [ ] Asset Breakdown ('boundary': fixed in the sample; high volatility/return, more comparable with cryptos):
+  * [x] Asset Breakdown ('boundary': fixed in the sample; high volatility/return, more comparable with cryptos):
     - Bond_HY: 256 (26 points are on the 'boundary', with volatility >= 0.04 and return >= 0.001)
     - Bond_IG: 277 (12 points are on the 'boundary', with volatility >= 0.04 and return >= 0.001)
     - Equity: 261 (18 points are on the 'boundary', with volatility >= 0.04 and return >= 0.005)
@@ -15,18 +15,18 @@
     - Commodity: 22
     - Currency: 153 (can further reduce the number by removing 8 pegged USD currencies, which has 0 return & volatility)
   
-  * [ ] Fix a small list of assets: 
+  * [x] Fix a small list of assets: 
     - Reference points: AAPL US Equity, 700 HK Equity, 6502 JT Equity, ZAR Curncy, CL1 Comdty
     - Boundary points:
       - Bond_HY: 256 (26 points are on the 'boundary', with volatility >= 0.04 and return >= 0.001)
       - Bond_IG: 277 (12 points are on the 'boundary', with volatility >= 0.04 and return >= 0.001)
 
-  * [ ] Show Median stock & bond volatility
+  * [x] Show Median stock & bond volatility
 
 ## 2. Liquidity analysis: Trading Turnover & Market cap data
 *[Attachment: Trading Turnover and Marketcap_0131.xlsx ]*
-  * [ ] Turnover Crypto vs Stock 0131 tab: Comparison of Turnover for top 30 crypto, stock and currency
-  * [ ] Marketcap Crypto vs Stock 0131 tab: Comparison of Marketcap % (as of the total Marketcap for 30 crypto/30 stocks)
+  * [x] Turnover Crypto vs Stock 0131 tab: Comparison of Turnover for top 30 crypto, stock and currency
+  * [x] Marketcap Crypto vs Stock 0131 tab: Comparison of Marketcap % (as of the total Marketcap for 30 crypto/30 stocks)
 
 ## 3. ICO vs Tech IPO comparison
 *[Attachment: 1. Overview ICO & Tech IPO.xlsx ]*
@@ -42,5 +42,5 @@
 
 ## 4. Correlation
 *[Attachment: correlation_assetclass_0131.xlsx]*
-  * [ ] Calculated daily return from 20170101 and cross-asset correlation (Pearson Linear Correlation)
-  * [ ] Asset selection: include 30 cryptos, 10 Curncy , 10 Equity indexes, 9 bond indexes and 22 Comdty (89 assets in total)
+  * [x] Calculated daily return from 20170101 and cross-asset correlation (Pearson Linear Correlation)
+  * [x] Asset selection: include 30 cryptos, 10 Curncy , 10 Equity indexes, 9 bond indexes and 22 Comdty (89 assets in total)
