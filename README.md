@@ -3,7 +3,7 @@
 ## 0. Time Range: 20170901 - 20180302
 
 ## 1. Risk vs Daily Return analysis
-*File: 1. Result 0302_Sample.csv *
+*File: 1. Result 0302_Sample.csv*
 
   * [x] Sample size: 960 assets
 
@@ -23,12 +23,12 @@
       - "1": crypto currency
  
 ## 2. Liquidity analysis: Trading Turnover & Market cap data
-*File: 2. Trading Turnover and Marketcap (Crypto, Equity, FX)_0302.xlsx *
+*File: 2. Trading Turnover and Marketcap (Crypto, Equity, FX)_0302.xlsx*
   * [x] Turnover Crypto vs Stock 0302 tab: Comparison of Turnover for top 30 crypto, stock and currency
   * [x] Marketcap Crypto vs Stock 0302 tab: Comparison of Marketcap % (as of the total Marketcap for 30 crypto/30 stocks)
 
 ## 3. ICO vs Tech IPO comparison
-*File: 3. Overview ICO & Tech IPO.xlsx *
+*File: 3. Overview ICO & Tech IPO.xlsx*
   * [x] Return (90 days) tab: Include Day 1, Day 30, Day 60 and Day 90 return (xx times than initial offer price)
   * [x] Return (60 days) tab: Include Day 1, Day 30, Day 60 return (the ICO names change slightly, due to some ICO only has more than 60-days but less than 90-days pricing data 
   * Selection Criteria for both Tech IPO & ICO:
